@@ -6,10 +6,6 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     srcset="https://github-readme-stats.vercel.app/api?username=julioccjesus&theme=default&show_icons=true&include_all_commits=true&icon_color=4B0082"
   />
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=julioccjesus&theme=default&show_icons=true&include_all_commits=true&icon_color=4B0082"
-  />
 </picture>
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
