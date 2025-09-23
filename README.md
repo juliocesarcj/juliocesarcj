@@ -1,12 +1,12 @@
 # 💫 About Me:
-Ola, eu sou o Julio!<br>Estudante de Analise e Desenvolvimento de Sistemas<br>Futuro Software Engineer<br>Dev Backend<br>Brasil-Ba<br><br>Tecnologias:<br>Nivel Avancado em linguagem C<br>Iniciante em: Python e Java<br>Iniciante em: MySQL e SQLlite<br><br>Objetivos:<br>Evoluir em Python e Java<br>No futuro: atuar como Software Engineer
+Ola, eu sou o Julio!<br>Estudante de Analise e Desenvolvimento de Sistemas<br>Futuro Software Engineer<br>Dev Backend<br>Brasil-Ba<br><br>Tecnologias:<br>Nivel Avancado em linguagem C<br>Iniciante em: Python e Java<br>Iniciante em: PostgreSQL <br><br>Objetivos:<br>Evoluir em Python e Java<br>No 
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/julio.jesus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliojesus318@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juliocesarcj&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=juliocesarcj&theme=shades-of-purple&hide_border=false)<br/>
