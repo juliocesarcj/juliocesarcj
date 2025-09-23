@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ola, eu sou o Julio!<br>Estudante de Analise e Desenvolvimento de Sistemas<br>Futuro Software Engineer<br>Dev Backend<br>Brasil-Ba<br><br>Tecnologias:<br>Nivel Avancado em linguagem C<br>Iniciante em: Python e Java<br>Iniciante em: PostgreSQL <br><br>Objetivos:<br>Evoluir em Python e Java<br>No 
+Ola, eu sou o Julio!<br>Estudante de Analise e Desenvolvimento de Sistemas<br>Brasil-Ba<br><br>Tecnologias:<br>Nivel Avancado em linguagem C<br>Iniciante em: Python e Java<br>Iniciante em: PostgreSQL <br><br>Objetivos:<br>Evoluir em Python e Java<br>No 
 
 
 ## 🌐 Socials:
