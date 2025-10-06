@@ -1,5 +1,5 @@
 🧠 ⚙ Oi, eu sou o Julio
-  📚 📝Estou cursando Análise e Desenvolvimento de Sistemas, ou também conhecido por ADS
+📚 📝Estou cursando Análise e Desenvolvimento de Sistemas, ou também conhecido por ADS
   🎧 🕹️Meus hobbies envolvem Games: Soulslike, Livros: literatura e Musicas
 
 💻Meus interesses como Dev são:
