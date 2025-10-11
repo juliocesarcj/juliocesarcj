@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/juliocesarcj/juliocesarcj/output/snake.svg" alt="Snake animation" />
-
-###
